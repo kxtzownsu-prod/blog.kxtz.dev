@@ -1,9 +1,14 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
 
-::github{repo="saicaca/fuwari"}
+I'm a low-level embedded programer & systems/software engineer. I mainly use Rust, C, Python & Bash. I can also write in JavaScript (e.g: React/Preact) and use markup languages like HTML, CSS and Markdown.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## Contact
+
+- GitHub: https://github.com/kxtzownsu
+- Twitter: https://twitter.com/kxtzownsu
+- Email 1: me@kxtz.dev
+- Email 2: kxtzownsu@gmail.com
+
+For more information, please view my GitHub profile README.md file, located at https://github.com/kxtzownsu/kxtzownsu/blob/main/README.md
+
+### For any and all legal inquiries please contact me using legal@kxtz.dev
