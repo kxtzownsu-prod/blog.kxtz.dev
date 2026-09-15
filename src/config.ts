@@ -37,7 +37,7 @@ export const siteConfig: SiteConfig = {
 		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		// }
     {
-      src: 'https://github.com/kxtzonsu.png'
+      src: 'https://github.com/kxtzownsu.png'
     }
 	],
 };
